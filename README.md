@@ -25,7 +25,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 Siga os passos abaixo para visualizar o projeto em sua máquina:
 
 - Clone o repositório:
-git clone <https://github.com/shinzo-suzuki-filho/devdragon.git>
+git clone < https://shinzo-suzuki-filho.github.io/Projeto-DevDragon/>
 - Acesse a pasta do projeto:
 cd devdragon
 - Abra o arquivo index.html em seu navegador:
@@ -45,4 +45,5 @@ Licença: Este projeto está sob a licença MIT. Você pode reutilizar, modifica
 Para dúvidas, sugestões ou parcerias:
 📧 <contatodevdragon@gmail.com>
 🌐 Em breve: <www.devdragon.com.br>
+
 
