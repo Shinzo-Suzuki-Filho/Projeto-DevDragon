@@ -1,0 +1,11 @@
+📄 Explicação dos Arquivos
+- index.html: Página principal com introdução e seções institucionais.
+- services.html: Página dedicada aos serviços oferecidos.
+- team.html: Apresentação da equipe DevDragon.
+- cadastro.html: Formulário para cadastro de clientes.
+- politica-de-privacidade.html e seguranca.html: Páginas de compliance e segurança.
+
+📁 src/
+- css/styles.css: Estilos personalizados do site.
+- js/script.js: Scripts JavaScript para interações e funcionalidades.
+- image/: Imagens utilizadas no site, como logotipo e banners.

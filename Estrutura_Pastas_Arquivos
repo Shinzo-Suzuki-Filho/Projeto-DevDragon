@@ -1,0 +1,27 @@
+DevDragon/
+│
+├── index.html
+├── services.html
+├── team.html
+├── cadastro.html
+├── politica-de-privacidade.html
+├── seguranca.html
+│
+├── src/
+│   ├── css/
+│   │   └── styles.css
+│   │
+│   ├── js/
+│   │   └── script.js
+│   │
+│   └── image/
+│       └── Logotipo-DevDragon.PNG
+│
+├── assets/
+│   ├── fonts/          # (opcional) fontes personalizadas
+│   └── icons/          # (opcional) ícones SVG ou PNG
+│
+├── docs/               # (opcional) documentação do projeto
+│   └── README.md
+│
+└── README.md           # descrição geral do projeto
